@@ -24,6 +24,6 @@ The data used in this project is sourced from [OpenWeatherMap's Air Pollution AP
 This project uses Python and several libraries for data analysis and visualization. To install the required libraries, run:
 
 ```bash
-pip install pandas matplotlib seaborn numpy requests
+pip install pandas matplotlib seaborn numpy requests```
 
 a
