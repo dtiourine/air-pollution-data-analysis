@@ -1,12 +1,5 @@
 # Air Pollution Analysis Project
 
-libaries:
-
-- requests
-- pandas
-- matplotlib
-- seaborn
-
 ## Project Overview
 This project focuses on analyzing air pollution data to identify trends, peaks in pollutant levels, and to provide insights into the air quality over a specified period. The goal is to contribute to environmental science by providing actionable insights through data analysis, visualization, and predictive modeling.
 
