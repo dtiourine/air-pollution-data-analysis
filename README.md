@@ -1,7 +1,7 @@
 # Air Pollution Analysis Project (NYC)
 
 ## Project Overview
-This project focuses on analyzing air pollution data to identify trends, peaks in pollutant levels, and to provide insights into the air quality over a specified period. The goal is to contribute to environmental science by providing actionable insights through data analysis, visualization, and predictive modeling.
+This project focuses on analyzing New York City air pollution data to identify trends, peaks in pollutant levels, and to provide insights into the air quality over a specified period. The goal is to contribute to environmental science by providing actionable insights through data analysis, visualization, and predictive modeling.
 
 ## Data Source
 The data used in this project is sourced from [OpenWeatherMap's Air Pollution API](https://openweathermap.org/api/air-pollution), which provides historical air pollution data including various pollutants like PM2.5, PM10, CO, SO2, and NOx levels.
